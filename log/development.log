@@ -1,0 +1,22 @@
+
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-10-27 17:14:25) [GET]
+
+ActionController::UnknownAction (No action responded to index. Actions: about, contact, product, and welcome):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#index (for 127.0.0.1 at 2011-10-27 17:14:37) [GET]
+
+ActionController::UnknownAction (No action responded to index. Actions: about, contact, product, and welcome):
+  
+
+Rendering rescues/layout (not_found)
+
+
+Processing HomeController#about (for 127.0.0.1 at 2011-10-27 17:14:43) [GET]
+Rendering home/about
+Completed in 6ms (View: 5, DB: 0) | 200 OK [http://localhost/home/about]
